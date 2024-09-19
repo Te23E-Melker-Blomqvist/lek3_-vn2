@@ -1,0 +1,16 @@
+<!--
+namn: Melker Blomqvist
+klass: Te23E
+-->
+
+body{
+    background-image: url(./img/ek.jpg)
+}
+h1{
+    color: rgb(240, 142, 6);
+    background-color: rgb(155, 230, 255);
+    text-align: center;
+}
+h2{
+    color:greenyellow;
+    background-color: rgb(103, 3, 103);
